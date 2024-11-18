@@ -1,0 +1,28 @@
+.hello {
+    color: blue;
+}
+
+p {
+    font-size: 20px;
+}
+
+.image {
+    width: 500px;
+    margin-bottom: 15px;
+}
+
+.linkhob {
+    margin-bottom: 10px;
+    font-size: 20px;
+    
+}
+
+.output {
+    color: rgb(160, 7, 114);
+    font-size: 25px;
+}
+
+button {
+    background: darkcyan;
+    color: white;
+}
